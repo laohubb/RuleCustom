@@ -1,0 +1,24 @@
+#Tiktok
+(?<=(carrier|sys)_region=)CN url 307 JP
+(?<=version_code=)\d{1,}.\d{1}\.\d{1} url 307 14.0.0
+
+#维基百科
+^https?:\/\/zh.m.wikipedia.org\/(zh|zh-hk|zh-tw|zh-hans)?\/ url 302 https://zh.m.wikipedia.org/zh-cn/
+
+#谷歌
+;^https?:\/\/(www.)?(g|google)\.com\.hk\/ url 302 https://www.google.com/
+
+;https:\/\/api\.m\.jd\.com\/client\.action.*functionId=signBean(Index|GroupStageIndex) url script-request-header JD_DailyBonus.js
+
+;^https:\/\/wapside.189.cn:9001\/api\/home\/homeInfo url script-request-header 10000.cookie.js
+;^https:\/\/wapside.189.cn:9001\/api\/home\/homeInfo url script-response-body 10000.cookie.js
+
+;^https:\/\/(www|live)\.bilibili\.com\/?.? url script-request-header bilibili.cookie.js
+
+;^https:\/\/music\.163\.com\/m\/?.? url script-request-header neteasemusic.cookie.js
+
+;^https:\/\/www\.smzdm\.com\/?.? url script-request-header smzdm.cookie.js
+
+;^https?:\/\/tieba\.baidu\.com\/?.? url script-request-header tieba.cookie.js
+
+;^https:\/\/www\.v2ex\.com\/mission\/daily url script-request-header v2ex.cookie.js
