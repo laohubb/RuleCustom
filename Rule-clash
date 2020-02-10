@@ -1,3 +1,6 @@
+;不要随意改变关键字，否则会导致出错
+
+;设置规则标志位
 surge_ruleset=DIRECT,https://raw.githubusercontent.com/MarkMarcus/Rulecustom/master/Surge-Direct
 surge_ruleset=DIRECT,rules/ConnersHua/Surge/Ruleset/Unbreak.list
 surge_ruleset=NETFLIX,rules/ConnersHua/Surge/Ruleset/Media/Netflix.list
@@ -9,9 +12,9 @@ surge_ruleset=DIRECT,rules/ConnersHua/Surge/Ruleset/China.list
 surge_ruleset=DIRECT,rules/NobyDa/Surge/Download.list
 surge_ruleset=DIRECT,[]GEOIP,CN
 surge_ruleset=Global,[]FINAL
+;设置规则标志位
 
-
-
+;设置分组标志位
 custom_proxy_group=Global`select`[]✈ 手动选择`[]✈ 延迟最低`[]✈ 故障切换`[]DIRECT
 custom_proxy_group=NETFLIX`select`[]Global`[]✈ 手动选择`[]✈ 延迟最低`[]✈ 故障切换`(NF|解锁)
 custom_proxy_group=GlobalMedia`select`[]Global`[]✈ 手动选择`[]✈ 延迟最低`[]✈ 故障切换`[]DIRECT
@@ -19,3 +22,4 @@ custom_proxy_group=Apple`select`[]DIRECT`[]Global`[]✈ 手动选择`[]✈ 延�
 custom_proxy_group=✈ 手动选择`select`.*
 custom_proxy_group=✈ 延迟最低`url-test`.*`http://www.gstatic.com/generate_204`500
 custom_proxy_group=✈ 故障切换`fallback`.*`http://www.gstatic.com/generate_204`500
+;设置分组标志位
