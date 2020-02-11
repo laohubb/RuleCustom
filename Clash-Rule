@@ -16,7 +16,7 @@ surge_ruleset=NETFLIX,[]FINAL
 
 ;设置分组标志位
 custom_proxy_group=Global`select`[]select`[]Auto`[]fallback`[]DIRECT
-custom_proxy_group=NETFLIX`select`[]Global`[]select`[]Auto`[]fallback`(NF|解锁)
+custom_proxy_group=NETFLIX`select`[]Global`[]select`[]Auto`[]fallback`(NF|解锁|Netflix)
 custom_proxy_group=select`select`.*
 custom_proxy_group=Auto`url-test`.*`http://www.gstatic.com/generate_204`500
 custom_proxy_group=fallback`fallback`.*`http://www.gstatic.com/generate_204`500
