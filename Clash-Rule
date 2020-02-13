@@ -16,5 +16,5 @@ surge_ruleset=NETFLIX,[]FINAL
 
 ;设置分组标志位
 custom_proxy_group=Global`select`[]NETFLIX`.*
-custom_proxy_group=NETFLIX`fallback`(中继)`(NF|解锁|Netflix)`http://www.gstatic.com/generate_204`500
+custom_proxy_group=NETFLIX`fallback`(NF|解锁|Netflix|中继)`http://www.gstatic.com/generate_204`500
 ;设置分组标志位
