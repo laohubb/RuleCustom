@@ -9,7 +9,6 @@ surge_ruleset=Global,https://raw.githubusercontent.com/ConnersHua/Profiles/maste
 surge_ruleset=DIRECT,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/China.list
 surge_ruleset=DIRECT,rules/NobyDa/Surge/Download.list
 surge_ruleset=DIRECT,[]GEOIP,CN
-surge_ruleset=DIRECT,[]LAN,CN
 surge_ruleset=Global,[]FINAL
 ;设置规则标志位
 
