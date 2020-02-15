@@ -1,5 +1,5 @@
 # > iTunes
-host-suffix,icloud-content.com
-host-suffix,iosapps.itunes.apple.com
+host-suffix,icloud-content.com,DIRECT
+host-suffix,iosapps.itunes.apple.com,DIRECT
 # > Microsoft
-host-suffix,storage.live.com
+host-suffix,storage.live.com,DIRECT
