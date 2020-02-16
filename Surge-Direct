@@ -2,7 +2,7 @@
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,iosapps.itunes.apple.com
 # > Microsoft
-DOMAIN-SUFFIX,storage.live.com
+DOMAIN-SUFFIX,bl3302.storage.live.com
 
 # CUSTOM RULE
 # Client
