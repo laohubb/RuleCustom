@@ -1,21 +1,6 @@
 # > iTunes
-DOMAIN-SUFFIX,icloud-content.com
-DOMAIN-SUFFIX,iosapps.itunes.apple.com
+DOMAIN-SUFFIX,icloud-content.com,DIRECT
+DOMAIN-SUFFIX,iosapps.itunes.apple.com,DIRECT
 # > Microsoft
-DOMAIN-SUFFIX,bl3302.storage.live.com
+DOMAIN-SUFFIX,bl3302.storage.live.com,DIRECT
 
-# CUSTOM RULE
-# Client
-# > Proxy
-PROCESS-NAME,v2ray,DIRECT
-PROCESS-NAME,ss-local,DIRECT
-# > Download
-PROCESS-NAME,aria2c,DIRECT
-PROCESS-NAME,fdm,DIRECT
-PROCESS-NAME,Folx,DIRECT
-PROCESS-NAME,NetTransport,DIRECT
-PROCESS-NAME,Thunder,DIRECT
-PROCESS-NAME,Transmission,DIRECT
-PROCESS-NAME,uTorrent,DIRECT
-PROCESS-NAME,WebTorrent,DIRECT
-PROCESS-NAME,WebTorrent Helper,DIRECT
