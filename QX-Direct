@@ -2,4 +2,4 @@
 host-suffix,icloud-content.com,DIRECT
 host-suffix,iosapps.itunes.apple.com,DIRECT
 # > Microsoft
-host-suffix,storage.live.com,DIRECT
+host-suffix,bl3302.storage.live.com,DIRECT
