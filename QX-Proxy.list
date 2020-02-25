@@ -8,3 +8,6 @@ DOMAIN-SUFFIX,visualstudio.com,PROXY
 DOMAIN-SUFFIX,windows.com,PROXY
 DOMAIN-SUFFIX,windowsupdate.com,PROXY
 DOMAIN,officecdn-microsoft-com.akamaized.net,PROXY
+# > OneDrive
+USER-AGENT,OneDrive*,PROXY
+USER-AGENT,OneDriveiOSApp*,PROXY
