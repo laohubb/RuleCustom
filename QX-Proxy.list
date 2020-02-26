@@ -36,3 +36,34 @@ DOMAIN-SUFFIX,xboxlive.com,Proxy
 # > OneDrive
 USER-AGENT,OneDrive*,PROXY
 USER-AGENT,OneDriveiOSApp*,PROXY
+# > Apple
+USER-AGENT,*com.apple.mobileme.fmip1,Proxy
+USER-AGENT,*WeatherFoundation*,Proxy
+USER-AGENT,%E5%9C%B0%E5%9B%BE*,Proxy
+USER-AGENT,%E6%9F%A5%E6%89%BE*,Proxy
+USER-AGENT,%E8%AE%BE%E7%BD%AE*,Proxy
+USER-AGENT,AppStore*,Proxy
+USER-AGENT,com.apple.appstored*,Proxy
+USER-AGENT,com.apple.geod*,Proxy
+USER-AGENT,com.apple.Maps,Proxy
+USER-AGENT,FindMy*,Proxy
+USER-AGENT,FMDClient*,Proxy
+USER-AGENT,FMFD*,Proxy
+USER-AGENT,fmflocatord*,Proxy
+USER-AGENT,geod*,Proxy
+USER-AGENT,locationd*,Proxy
+USER-AGENT,Maps*,Proxy
+USER-AGENT,TestFlight*,Proxy
+DOMAIN-SUFFIX,apple.co,Proxy
+DOMAIN-SUFFIX,apple.com,Proxy
+DOMAIN-SUFFIX,apple.com.cn,Proxy
+DOMAIN-SUFFIX,apple-cloudkit.com,Proxy
+DOMAIN-SUFFIX,appstore.com,Proxy
+DOMAIN-SUFFIX,cdn-apple.com,Proxy
+DOMAIN-SUFFIX,crashlytics.com,Proxy
+DOMAIN-SUFFIX,icloud.com,Proxy
+DOMAIN-SUFFIX,icloud-content.com,Proxy
+DOMAIN-SUFFIX,itunes.com,Proxy
+DOMAIN-SUFFIX,me.com,Proxy
+DOMAIN-SUFFIX,mzstatic.com,Proxy
+DOMAIN,api.smoot.apple.cn,Proxy
