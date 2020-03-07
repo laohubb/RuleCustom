@@ -11,7 +11,6 @@ $tool.get('https://dict.youdao.com/infoline/style/cardList?mode=publish&client=m
     let title = 'Clock' + (isAM ? ' in' : ' out') + (isAM ? ' ' : ' ');
     let subtitle = '';
     let content = 'shortcuts://run-shortcut?name=Check%20in';
-    let content = 'dingtalk://dingtalkclient/page/link?url=http://122.226.181.104:12208/H5/index/Index.htm?OP=phone_html5&r=20200306031619356';
     if (!error) {
         if (obj && obj.length > 1) {
             let yi = obj[1];
