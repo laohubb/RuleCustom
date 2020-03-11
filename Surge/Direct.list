@@ -6,3 +6,6 @@ DOMAIN-SUFFIX,apps.apple.com
 # > Microsoft
 DOMAIN-SUFFIX,bl3302.storage.live.com
 DOMAIN-SUFFIX,users.storage.live.com
+# > Speedtest
+DOMAIN-KEYWORD,speedtest
+DOMAIN-SUFFIX,ooklaserver.net
