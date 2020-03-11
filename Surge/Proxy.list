@@ -16,3 +16,5 @@ DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN,officecdn-microsoft-com.akamaized.net
+# > Fast
+DOMAIN-SUFFIX,fast.com
