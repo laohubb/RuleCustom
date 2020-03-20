@@ -1,0 +1,6 @@
+# > iTunes
+DOMAIN-SUFFIX,gc.apple.com,PROXY
+# > gameloft
+DOMAIN-KEYWORD,gameloft,PROXY
+DOMAIN-SUFFIX,app-measurement.com,PROXY
+DOMAIN-SUFFIX,CRASHLYTICS.COM,PROXY
