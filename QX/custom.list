@@ -2,7 +2,7 @@
 DOMAIN-SUFFIX,icloud-content.com,DIRECT
 DOMAIN-SUFFIX,iosapps.itunes.apple.com,DIRECT
 DOMAIN-SUFFIX,apps.apple.com,DIRECT
-DOMAIN-SUFFIX,stats.gc.apple.com,PROXY
+DOMAIN-SUFFIX,gc.apple.com,PROXY
 # > Microsoft
 DOMAIN-SUFFIX,bl3302.storage.live.com,DIRECT
 DOMAIN-SUFFIX,users.storage.live.com,DIRECT
