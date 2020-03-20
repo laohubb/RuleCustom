@@ -11,3 +11,4 @@ DOMAIN-KEYWORD,speedtest,DIRECT
 DOMAIN-SUFFIX,ooklaserver.net,DIRECT
 # > gameloft
 DOMAIN-KEYWORD,gameloft,PROXY
+DOMAIN-KEYWORD,app-measurement,PROXY
