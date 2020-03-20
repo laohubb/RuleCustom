@@ -1,5 +1,6 @@
 # > iTunes
 DOMAIN-SUFFIX,gc.apple.com,PROXY
+DOMAIN-SUFFIX,p49-buy.itunes.apple.com,PROXY
 # > gameloft
 DOMAIN-KEYWORD,gameloft,PROXY
 DOMAIN-SUFFIX,app-measurement.com,PROXY
