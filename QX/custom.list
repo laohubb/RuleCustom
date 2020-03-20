@@ -9,3 +9,5 @@ DOMAIN-SUFFIX,safelinks.protection.outlook.com,DIRECT
 # > Speedtest
 DOMAIN-KEYWORD,speedtest,DIRECT
 DOMAIN-SUFFIX,ooklaserver.net,DIRECT
+# > gameloft
+DOMAIN-KEYWORD,gameloft,PROXY
