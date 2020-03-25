@@ -1,5 +1,8 @@
 # []神机规则
 # (DNS Cache Pollution Protection)
+# > OneDrive
+USER-AGENT,OneDrive*,OneDrive
+USER-AGENT,OneDriveiOSApp*,OneDrive
 # > Google
 DOMAIN-SUFFIX,ampproject.org,PROXY
 DOMAIN-SUFFIX,appspot.com,PROXY
