@@ -1,7 +1,3 @@
-# > iTunes
-# DOMAIN-SUFFIX,icloud-content.com,DIRECT
-# DOMAIN-SUFFIX,iosapps.itunes.apple.com,DIRECT
-# DOMAIN-SUFFIX,apps.apple.com,DIRECT
 # > Microsoft
 DOMAIN-SUFFIX,bl3302.storage.live.com,DIRECT
 DOMAIN-SUFFIX,users.storage.live.com,DIRECT
