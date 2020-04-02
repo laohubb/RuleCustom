@@ -20,18 +20,11 @@ IP-CIDR,192.168.0.0/16,DIRECT
 
 # IPLC GLOBAL
 DOMAIN-KEYWORD,gameloft,IPLC
-
-# > Gmail
-DOMAIN,pop.gmail.com,IPLC
-DOMAIN,imap.gmail.com,IPLC
-DOMAIN,smtp.gmail.com,IPLC
-# > Outlook
+# Microsoft
 DOMAIN,outlook.office365.com,IPLC
 DOMAIN,smtp.office365.com,IPLC
 DOMAIN,imap-IPLC.outlook.com,IPLC
 DOMAIN,smtp-IPLC.outlook.com,IPLC
-# > Microsoft
-# >> Microsoft OneDrive
 DOMAIN-SUFFIX,1drv.com,IPLC
 DOMAIN-SUFFIX,1drv.ms,IPLC
 DOMAIN-SUFFIX,blob.core.windows.net,IPLC
@@ -40,13 +33,8 @@ DOMAIN-SUFFIX,onedrive.com,IPLC
 DOMAIN-SUFFIX,storage.live.com,IPLC
 DOMAIN-SUFFIX,storage.msn.com,IPLC
 DOMAIN,oneclient.sfx.ms,IPLC
-# > OneDrive
-USER-AGENT,OneDrive*,IPLC
-USER-AGENT,OneDriveiOSApp*,IPLC
-# > Microsoft
 DOMAIN-SUFFIX,onedrive.live.com,IPLC
 DOMAIN-SUFFIX,xboxlive.com,IPLC
-USER-AGENT,Microsoft*,IPLC
 DOMAIN-KEYWORD,microsoft,IPLC
 DOMAIN-SUFFIX,ms,IPLC
 DOMAIN-SUFFIX,bing.com,IPLC
@@ -70,5 +58,3 @@ DOMAIN-SUFFIX,visualstudio.com,IPLC
 DOMAIN-SUFFIX,windows.com,IPLC
 DOMAIN-SUFFIX,windows.net,IPLC
 DOMAIN-SUFFIX,xbox.com,IPLC
-DOMAIN-SUFFIX,xboxlive.com,IPLC
-
