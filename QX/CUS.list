@@ -20,11 +20,46 @@ IP-CIDR,192.168.0.0/16,DIRECT
 
 # IPLC GLOBAL
 DOMAIN-KEYWORD,gameloft,IPLC
+# Apple
+USER-AGENT,*com.apple.mobileme.fmip1,IPLC
+USER-AGENT,*WeatherFoundation*,IPLC
+USER-AGENT,%E5%9C%B0%E5%9B%BE*,IPLC
+USER-AGENT,%E6%9F%A5%E6%89%BE*,IPLC
+USER-AGENT,%E8%AE%BE%E7%BD%AE*,IPLC
+USER-AGENT,AppStore*,IPLC
+USER-AGENT,com.apple.appstored*,IPLC
+USER-AGENT,com.apple.geod*,IPLC
+USER-AGENT,com.apple.Maps,IPLC
+USER-AGENT,FindMy*,IPLC
+USER-AGENT,FMDClient*,IPLC
+USER-AGENT,FMFD*,IPLC
+USER-AGENT,fmflocatord*,IPLC
+USER-AGENT,geod*,IPLC
+USER-AGENT,locationd*,IPLC
+USER-AGENT,Maps*,IPLC
+USER-AGENT,TestFlight*,IPLC
+DOMAIN-SUFFIX,apple.co,IPLC
+DOMAIN-SUFFIX,apple.com,IPLC
+DOMAIN-SUFFIX,apple.com.cn,IPLC
+DOMAIN-SUFFIX,apple-cloudkit.com,IPLC
+DOMAIN-SUFFIX,appstore.com,IPLC
+DOMAIN-SUFFIX,cdn-apple.com,IPLC
+DOMAIN-SUFFIX,crashlytics.com,IPLC
+DOMAIN-SUFFIX,icloud.com,IPLC
+DOMAIN-SUFFIX,icloud.com.cn,IPLC
+DOMAIN-SUFFIX,icloud-content.com,IPLC
+DOMAIN-SUFFIX,itunes.com,IPLC
+DOMAIN-SUFFIX,me.com,IPLC
+DOMAIN-SUFFIX,mzstatic.com,IPLC
+DOMAIN,api.smoot.apple.cn,IPLC
+DOMAIN-SUFFIX,aaplimg.com,IPLC
+DOMAIN,www-cdn.icloud.com.akadns.net,IPLC
+IP-CIDR,17.0.0.0/8,IPLC
 # Microsoft
 DOMAIN,outlook.office365.com,IPLC
 DOMAIN,smtp.office365.com,IPLC
-DOMAIN,imap-IPLC.outlook.com,IPLC
-DOMAIN,smtp-IPLC.outlook.com,IPLC
+DOMAIN,imap-mail.outlook.com,IPLC
+DOMAIN,smtp-mail.outlook.com,IPLC
 DOMAIN-SUFFIX,1drv.com,IPLC
 DOMAIN-SUFFIX,1drv.ms,IPLC
 DOMAIN-SUFFIX,blob.core.windows.net,IPLC
