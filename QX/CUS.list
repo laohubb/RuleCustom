@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,apps.apple.com,DIRECT
 DOMAIN-SUFFIX,bl3302.storage.live.com,DIRECT
 DOMAIN-SUFFIX,users.storage.live.com,DIRECT
 DOMAIN-SUFFIX,safelinks.protection.outlook.com,DIRECT
+DOMAIN-SUFFIX,delivery.mp.microsoft.com,DIRECT
 # > Speedtest
 DOMAIN-KEYWORD,speedtest,DIRECT
 DOMAIN-SUFFIX,ooklaserver.net,DIRECT
@@ -70,7 +71,6 @@ DOMAIN-SUFFIX,storage.msn.com,IPLC
 DOMAIN,oneclient.sfx.ms,IPLC
 DOMAIN-SUFFIX,onedrive.live.com,IPLC
 DOMAIN-SUFFIX,xboxlive.com,IPLC
-DOMAIN-KEYWORD,microsoft,IPLC
 DOMAIN-SUFFIX,ms,IPLC
 DOMAIN-SUFFIX,bing.com,IPLC
 DOMAIN-SUFFIX,bing.net,IPLC
