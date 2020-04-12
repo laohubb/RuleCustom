@@ -1,4 +1,5 @@
 # > iTunes		
+DOMAIN-SUFFIX,updates-http.cdn-apple.com,DIRECT		
 DOMAIN-SUFFIX,iosapps.itunes.apple.com,DIRECT		
 DOMAIN-SUFFIX,apps.apple.com,DIRECT
 # > Microsoft
