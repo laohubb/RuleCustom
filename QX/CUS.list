@@ -1,7 +1,5 @@
 # > iTunes		
-DOMAIN-SUFFIX,updates-http.cdn-apple.com,DIRECT		
-DOMAIN-SUFFIX,iosapps.itunes.apple.com,DIRECT		
-DOMAIN-SUFFIX,apps.apple.com,DIRECT
+DOMAIN-SUFFIX,updates-http.cdn-apple.com,DIRECT				
 # > Microsoft
 DOMAIN-SUFFIX,s-microsoft.com,DIRECT
 DOMAIN-SUFFIX,bl3302.storage.live.com,DIRECT
