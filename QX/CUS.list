@@ -1,6 +1,7 @@
 # > iTunes		
 DOMAIN-SUFFIX,updates-http.cdn-apple.com,DIRECT
 DOMAIN-SUFFIX,iosapps.itunes.apple.com,DIRECT
+DOMAIN-SUFFIX,icloud-content.com,DIRECT
 # > Microsoft
 DOMAIN-SUFFIX,s-microsoft.com,DIRECT
 DOMAIN-SUFFIX,bl3302.storage.live.com,DIRECT
@@ -40,7 +41,6 @@ DOMAIN-SUFFIX,cdn-apple.com,IPLC
 DOMAIN-SUFFIX,crashlytics.com,IPLC
 DOMAIN-SUFFIX,icloud.com,IPLC
 DOMAIN-SUFFIX,icloud.com.cn,IPLC
-DOMAIN-SUFFIX,icloud-content.com,IPLC
 DOMAIN-SUFFIX,itunes.com,IPLC
 DOMAIN-SUFFIX,me.com,IPLC
 DOMAIN-SUFFIX,mzstatic.com,IPLC
