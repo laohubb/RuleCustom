@@ -1,5 +1,6 @@
 # GLOBAL
 DOMAIN-KEYWORD,gameloft
+USER-AGENT,Asphalt%209*
 # Apple
 USER-AGENT,*com.apple.mobileme.fmip1
 USER-AGENT,*WeatherFoundation*
