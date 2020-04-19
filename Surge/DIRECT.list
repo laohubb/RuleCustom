@@ -1,13 +1,13 @@
 # > iTunes		
-DOMAIN-SUFFIX,updates-http.cdn-apple.com,DIRECT
-DOMAIN-SUFFIX,iosapps.itunes.apple.com,DIRECT
-DOMAIN-SUFFIX,icloud-content.com,DIRECT
+DOMAIN-SUFFIX,updates-http.cdn-apple.com
+DOMAIN-SUFFIX,iosapps.itunes.apple.com
+DOMAIN-SUFFIX,icloud-content.com
 # > Microsoft
-DOMAIN-SUFFIX,s-microsoft.com,DIRECT
-DOMAIN-SUFFIX,bl3302.storage.live.com,DIRECT
-DOMAIN-SUFFIX,users.storage.live.com,DIRECT
-DOMAIN-SUFFIX,safelinks.protection.outlook.com,DIRECT
-DOMAIN-SUFFIX,delivery.mp.microsoft.com,DIRECT
+DOMAIN-SUFFIX,s-microsoft.com
+DOMAIN-SUFFIX,bl3302.storage.live.com
+DOMAIN-SUFFIX,users.storage.live.com
+DOMAIN-SUFFIX,safelinks.protection.outlook.com
+DOMAIN-SUFFIX,delivery.mp.microsoft.com
 # > Speedtest
-DOMAIN-KEYWORD,speedtest,DIRECT
-DOMAIN-SUFFIX,ooklaserver.net,DIRECT
+DOMAIN-KEYWORD,speedtest
+DOMAIN-SUFFIX,ooklaserver.net
