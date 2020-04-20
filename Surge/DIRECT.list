@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,bl3302.storage.live.com
 DOMAIN-SUFFIX,users.storage.live.com
 DOMAIN-SUFFIX,safelinks.protection.outlook.com
 DOMAIN-SUFFIX,delivery.mp.microsoft.com
-DOMAIN-SUFFIX,browser.pipe.aria.microsoft.com
+DOMAIN-SUFFIX,pipe.aria.microsoft.com
 # > Speedtest
 DOMAIN-KEYWORD,speedtest
 DOMAIN-SUFFIX,ooklaserver.net
