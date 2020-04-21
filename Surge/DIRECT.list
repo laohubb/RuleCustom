@@ -9,8 +9,9 @@ DOMAIN-SUFFIX,users.storage.live.com
 DOMAIN-SUFFIX,safelinks.protection.outlook.com
 DOMAIN-SUFFIX,delivery.mp.microsoft.com
 DOMAIN-SUFFIX,pipe.aria.microsoft.com
+DOMAIN-KEYWORD,onenote
 # > Speedtest
 DOMAIN-KEYWORD,speedtest
 DOMAIN-SUFFIX,ooklaserver.net
-# > Other
+# > 网易云课堂
 DOMAIN-SUFFIX,netease.im
