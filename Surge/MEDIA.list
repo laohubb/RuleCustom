@@ -920,6 +920,7 @@ IP-CIDR,105.187.240.196/32,no-resolve
 IP-CIDR,101.100.179.250/32,no-resolve
 IP-CIDR,101.100.179.242/32,no-resolve
 IP-CIDR,1.37.35.6/32,no-resolve
+DOMAIN-SUFFIX,spankbang.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youboranqs01.com
@@ -1143,3 +1144,4 @@ DOMAIN,avodmp4s3ww-a.akamaihd.net
 DOMAIN,api.viu.now.com
 DOMAIN,abematv.akamaized.net
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
+
