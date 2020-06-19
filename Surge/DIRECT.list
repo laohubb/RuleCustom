@@ -16,3 +16,6 @@ DOMAIN-SUFFIX,netease.im
 # > 哔哩哔哩
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilivideo.com
+# > PLEX
+DOMAIN-KEYWORD,plex
+DOMAIN-KEYWORD,PLEX
