@@ -22,7 +22,5 @@ DOMAIN-KEYWORD,PLEX
 # > QNAP
 DOMAIN-KEYWORD,myqnapcloud
 DOMAIN-SUFFIX,myqnapcloud.com
-DOMAIN-SUFFIX,192.168.1.175
-IP-CIDR,192.168.1.0/24,no-resolve
 # > 慢慢买
 DOMAIN-SUFFIX,manmanbuy.com
